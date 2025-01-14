@@ -1,6 +1,6 @@
 # Minesweeper Game Using Unity 🎮💣  
 
-This project involves developing a classic Minesweeper game using the Unity game engine. The game is designed to provide an engaging and educational experience, combining logic and deduction with gamified learning.  
+This project involves developing a classic Minesweeper game using the Unity game engine. The game is designed to provide an engaging and educational experience, combining logic and deduction with gamified learning.This is a group project, **Ilavarasu Thevar** played a major and significant role in developing this project.  
 
 ---
 
